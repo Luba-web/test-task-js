@@ -20,7 +20,7 @@
 
 **Благодарность авторам ТЗ**
 
-Спасибо [макет](https://www.figma.com/file/3gcKt8coTeNhFGnHuHWzjr/Стажировка---Тестовове-задание?type=design&node-id=0-1&mode=design&t=8Mu7QxKz2E2CjnRh-0)
+Спасибо за [макет](https://www.figma.com/file/3gcKt8coTeNhFGnHuHWzjr/Стажировка---Тестовове-задание?type=design&node-id=0-1&mode=design&t=8Mu7QxKz2E2CjnRh-0)
 
 **Deploy**
 
