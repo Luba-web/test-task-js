@@ -1,0 +1,49 @@
+:root {
+  --color-white: #ffffff;
+  --color-blue: #3877ee;
+  --color-green: #6abf4b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  position: relative;
+}
+
+.main__box {
+  display: flex;
+  position: absolute;
+}
+
+.main__btn {
+  width: 41px;
+  height: 41px;
+  border-radius: 25px;
+  border: none;
+  color: var(--color-white);
+  font-size: 22px;
+  text-align: center;
+}
+
+.main__hide {
+  display: none;
+}
+
+.main__show {
+  height: 41px;
+  padding-right: 8px;
+  background-color: var(--color-blue);
+  border-radius: 0 25px 25px 0;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 40px;
+  top: 0;
+}
+
+.main__img {
+  width: 100%;
+  background: var(--color-blue);
+}
